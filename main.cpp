@@ -1,6 +1,6 @@
 #include<iostream>
 
 int main() {
-	std::cout << "밖에" << std::endl;
+	std::cout << "집안에" << std::endl;
 	return 0;
 }
